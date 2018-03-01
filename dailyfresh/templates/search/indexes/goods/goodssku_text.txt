@@ -1,0 +1,4 @@
+#根据表的那些字段创建索引
+{{object.name}}
+{{object.desc}}
+{{object.goods.detail}}
